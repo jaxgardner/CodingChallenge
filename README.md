@@ -21,4 +21,4 @@ Coding challenge for OIT interview.
 - Is to be run in a terminal.
 
 ## Time
-- This took 3 hour and 40 minutes to design/program.
+- This took 3 hours and 40 minutes to design/program.
